@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
