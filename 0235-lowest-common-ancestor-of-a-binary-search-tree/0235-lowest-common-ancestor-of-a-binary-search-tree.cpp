@@ -1,26 +1,32 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        // Base case: if root is NULL, return NULL
+        // Base case
         if (root == NULL) return NULL;
 
-        // If current node is either p or q, then it can be the answer
-        if (root == p || root == q) {
+        // case 1: p and q both come in left subtree of root
+        if (p->val < root->val && q->val < root->val) {
+            TreeNode* leftAns = lowestCommonAncestor(root->left, p, q);
+            return leftAns;
+        }
+
+        // case 2: p and q both come in right subtree of root
+        if (p->val > root->val && q->val > root->val) {
+            TreeNode* rightAns = lowestCommonAncestor(root->right, p, q);
+            return rightAns;
+        }
+
+        // case 3: p is in left and q is in right of root
+        if (p->val < root->val && q->val > root->val) {
             return root;
         }
 
-        // If both p and q are smaller than root, go to left subtree
-        if (p->val < root->val && q->val < root->val) {
-            return lowestCommonAncestor(root->left, p, q);
+        // case 4: q is in left and p is in right of root
+        if (q->val < root->val && p->val > root->val) {
+            return root;
         }
 
-        // If both p and q are greater than root, go to right subtree
-        if (p->val > root->val && q->val > root->val) {
-            return lowestCommonAncestor(root->right, p, q);
-        }
-
-        // If one node is on the left and one is on the right,
-        // then current node is the LCA
+        // default return
         return root;
     }
 };
