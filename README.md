@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
