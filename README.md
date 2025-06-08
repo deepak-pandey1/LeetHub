@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
+| [2619-categorize-box-according-to-criteria](https://github.com/deepak-pandey1/LeetHub/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
 | ------- |
