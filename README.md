@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/deepak-pandey1/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak-pandey1/LeetHub/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/deepak-pandey1/LeetHub/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/deepak-pandey1/LeetHub/tree/master/0520-detect-capital) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
