@@ -6,6 +6,8 @@ public:
         if(p == NULL || q == NULL) return false;
         if(p->val != q->val) return false;
 
-        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+        bool ans1 = isSameTree(p->left, q->left);
+        bool ans2 = isSameTree(p->right, q->right);
+        return ans1 && ans2;
     }
 };
