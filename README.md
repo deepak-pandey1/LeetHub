@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/deepak-pandey1/LeetHub/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepak-pandey1/LeetHub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
