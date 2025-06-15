@@ -2,7 +2,7 @@ class Solution {
 public:
     int ans = 0;
     bool checkLeaves(TreeNode* root){
-        if(root == NULL) return true;
+        if(root == NULL) return false;
 
         if(root->left == NULL && root->right == NULL)
             return true;
