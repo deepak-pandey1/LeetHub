@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepak-pandey1/LeetHub/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepak-pandey1/LeetHub/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/deepak-pandey1/LeetHub/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
