@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2384-root-equals-sum-of-children](https://github.com/deepak-pandey1/LeetHub/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2384-root-equals-sum-of-children](https://github.com/deepak-pandey1/LeetHub/tree/master/2384-root-equals-sum-of-children) |
 ## Stack
 |  |
 | ------- |
