@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepak-pandey1/LeetHub/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepak-pandey1/LeetHub/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepak-pandey1/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
