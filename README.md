@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepak-pandey1/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0538-convert-bst-to-greater-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepak-pandey1/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0538-convert-bst-to-greater-tree) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepak-pandey1/LeetHub/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0538-convert-bst-to-greater-tree) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
