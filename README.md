@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/deepak-pandey1/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak-pandey1/LeetHub/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/deepak-pandey1/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepak-pandey1/LeetHub/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/deepak-pandey1/LeetHub/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/deepak-pandey1/LeetHub/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0652-find-duplicate-subtrees](https://github.com/deepak-pandey1/LeetHub/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [2619-categorize-box-according-to-criteria](https://github.com/deepak-pandey1/LeetHub/tree/master/2619-categorize-box-according-to-criteria) |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 ## Monotonic Stack
