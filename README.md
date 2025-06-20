@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
