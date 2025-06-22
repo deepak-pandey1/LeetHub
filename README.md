@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/deepak-pandey1/LeetHub/tree/master/0520-detect-capital) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepak-pandey1/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepak-pandey1/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sorting
 |  |
 | ------- |
