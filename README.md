@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepak-pandey1/LeetHub/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1035-cousins-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
