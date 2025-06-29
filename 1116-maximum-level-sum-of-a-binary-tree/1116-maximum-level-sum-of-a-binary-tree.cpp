@@ -5,7 +5,7 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         q.push(NULL);
-        int ans = 1;
+        int ans = 0;
         int sum = 0;
         int prev = INT_MIN;
         int level = 1;
