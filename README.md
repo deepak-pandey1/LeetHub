@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepak-pandey1/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2886-faulty-keyboard](https://github.com/deepak-pandey1/LeetHub/tree/master/2886-faulty-keyboard) |
 | [3617-find-the-original-typed-string-i](https://github.com/deepak-pandey1/LeetHub/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepak-pandey1/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2886-faulty-keyboard](https://github.com/deepak-pandey1/LeetHub/tree/master/2886-faulty-keyboard) |
 ## Sorting
 |  |
 | ------- |
