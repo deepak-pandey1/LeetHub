@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/deepak-pandey1/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/deepak-pandey1/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/deepak-pandey1/LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepak-pandey1/LeetHub/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
