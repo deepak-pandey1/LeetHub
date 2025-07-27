@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
