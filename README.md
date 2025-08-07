@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/deepak-pandey1/LeetHub/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/deepak-pandey1/LeetHub/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/deepak-pandey1/LeetHub/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/deepak-pandey1/LeetHub/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/deepak-pandey1/LeetHub/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
