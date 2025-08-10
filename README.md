@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [3778-transform-array-by-parity](https://github.com/deepak-pandey1/LeetHub/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepak-pandey1/LeetHub/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepak-pandey1/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3778-transform-array-by-parity](https://github.com/deepak-pandey1/LeetHub/tree/master/3778-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3778-transform-array-by-parity](https://github.com/deepak-pandey1/LeetHub/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
