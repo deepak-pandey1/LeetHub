@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0926-find-and-replace-pattern](https://github.com/deepak-pandey1/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/deepak-pandey1/LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/deepak-pandey1/LeetHub/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0926-find-and-replace-pattern](https://github.com/deepak-pandey1/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/deepak-pandey1/LeetHub/tree/master/0520-detect-capital) |
+| [0926-find-and-replace-pattern](https://github.com/deepak-pandey1/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/deepak-pandey1/LeetHub/tree/master/1651-shuffle-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/deepak-pandey1/LeetHub/tree/master/2260-divide-a-string-into-groups-of-size-k) |
