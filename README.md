@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/deepak-pandey1/LeetHub/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/deepak-pandey1/LeetHub/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/deepak-pandey1/LeetHub/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/deepak-pandey1/LeetHub/tree/master/0520-detect-capital) |
 | [0926-find-and-replace-pattern](https://github.com/deepak-pandey1/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deepak-pandey1/LeetHub/tree/master/1264-maximum-number-of-words-you-can-type) |
