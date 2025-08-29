@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/deepak-pandey1/LeetHub/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepak-pandey1/LeetHub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/deepak-pandey1/LeetHub/tree/master/2481-strictly-palindromic-number) |
 ## Linked List
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepak-pandey1/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2481-strictly-palindromic-number](https://github.com/deepak-pandey1/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/deepak-pandey1/LeetHub/tree/master/2619-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/deepak-pandey1/LeetHub/tree/master/0332-reconstruct-itinerary) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/deepak-pandey1/LeetHub/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
