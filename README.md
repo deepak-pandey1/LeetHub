@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/deepak-pandey1/LeetHub/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/deepak-pandey1/LeetHub/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepak-pandey1/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepak-pandey1/LeetHub/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepak-pandey1/LeetHub/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/deepak-pandey1/LeetHub/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepak-pandey1/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/deepak-pandey1/LeetHub/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/deepak-pandey1/LeetHub/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/deepak-pandey1/LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/deepak-pandey1/LeetHub/tree/master/2619-categorize-box-according-to-criteria) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepak-pandey1/LeetHub/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0909-stone-game](https://github.com/deepak-pandey1/LeetHub/tree/master/0909-stone-game) |
 ## Graph
 |  |
 | ------- |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/deepak-pandey1/LeetHub/tree/master/2481-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/deepak-pandey1/LeetHub/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
